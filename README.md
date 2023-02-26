@@ -3,3 +3,5 @@
 ![Test Imag 8](https://github.com/mosesnova/CProgramming/blob/master/diode.jpg)
 ![Test Imag 8](https://github.com/mosesnova/CProgramming/blob/master/ip.jpg)
 ![Test Imag 8](https://github.com/mosesnova/CProgramming/blob/master/cpn.jpg)
+![Test Imag 8](https://github.com/mosesnova/CProgramming/blob/master/r.jpg)
+![Test Imag 8](https://github.com/mosesnova/CProgramming/blob/master/as.jpg)
